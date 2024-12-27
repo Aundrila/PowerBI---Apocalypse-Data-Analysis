@@ -1,4 +1,5 @@
 # PowerBI-Apocalypse-Data-Analysis
 
-DAX.pdf
+markdown
+https://github.com/Aundrila/PowerBI-Apocalypse-Data-Analysis/blob/main/DAX.pdf
 
